@@ -2,7 +2,7 @@ name: GitHub Pages Deploy [develop]
 
 on:
   push:
-    branches: [feature/3-ci-cd]
+    branches: [develop]
 
   workflow_dispatch:
 
